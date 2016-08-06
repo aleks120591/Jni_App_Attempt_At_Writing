@@ -2,8 +2,8 @@
 // Created by Warlock Aleks on 06.08.2016.
 //
 #include <android/log.h>
+#include <string.h>
 #include <>
-#
 #
 #
 #
